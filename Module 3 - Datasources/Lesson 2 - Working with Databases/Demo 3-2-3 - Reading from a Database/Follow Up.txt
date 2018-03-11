@@ -1,0 +1,167 @@
+ORDER_ID;SALES;ORDERDATE;STATUS;CUSTOMERNAME;PHONE;CONTACTLASTNAME;CONTACTFIRSTNAME;prev_orderdate;elapsed_days
+10178;3492;11/08/2003;Shipped   ;Alpha Cognac                      ;61.77.6555                    ;Roulet     ;Annette   ;07/04/2003;127
+10397;2578;03/28/2005;Shipped   ;Alpha Cognac                      ;61.77.6555                    ;Roulet     ;Annette   ;11/08/2003;506
+10169;5020;11/04/2003;Shipped   ;Anna's Decorations, Ltd           ;02 9936 8555                  ;O'Hara     ;Anna      ;09/11/2003;54
+10370;2297;01/20/2005;Shipped   ;Anna's Decorations, Ltd           ;02 9936 8555                  ;O'Hara     ;Anna      ;11/04/2003;443
+10391;2417;03/09/2005;Shipped   ;Anna's Decorations, Ltd           ;02 9936 8555                  ;O'Hara     ;Anna      ;01/20/2005;48
+10298;3757;09/27/2004;Shipped   ;Atelier graphique                 ;40.32.2555                    ;Schmitt    ;Carine    ;05/20/2003;496
+10345;2312;11/25/2004;Shipped   ;Atelier graphique                 ;40.32.2555                    ;Schmitt    ;Carine    ;09/27/2004;59
+10265;3908;07/02/2004;Shipped   ;Australian Collectables, Ltd      ;61-9-3844-6555                ;Connery    ;Sean      ;11/21/2003;224
+10223;3966;02/20/2004;Shipped   ;Australian Collectors, Co.        ;03 9520 4555                  ;Ferguson   ;Peter     ;05/21/2003;275
+10342;6454;11/24/2004;Shipped   ;Australian Collectors, Co.        ;03 9520 4555                  ;Ferguson   ;Peter     ;02/20/2004;278
+10174;8015;11/06/2003;Shipped   ;Australian Gift Network, Co       ;61-7-3844-6555                ;Calaghan   ;Tony      ;09/25/2003;42
+10374;5288;02/02/2005;Shipped   ;Australian Gift Network, Co       ;61-7-3844-6555                ;Calaghan   ;Tony      ;11/06/2003;454
+10304;10173;10/11/2004;Shipped   ;Auto Associ‚s & Cie.              ;30.59.8555                    ;Tonini     ;Daniel    ;02/02/2004;252
+10252;1528;05/26/2004;Shipped   ;Auto Canal+ Petit                 ;(1) 47.55.6555                ;Perrier    ;Dominique ;01/15/2004;132
+10402;5834;04/07/2005;Shipped   ;Auto Canal+ Petit                 ;(1) 47.55.6555                ;Perrier    ;Dominique ;05/26/2004;316
+10290;2502;09/07/2004;Shipped   ;Auto-Moto Classics Inc.           ;6175558428                    ;Taylor     ;Leslie    ;06/16/2003;449
+10352;2353;12/03/2004;Shipped   ;Auto-Moto Classics Inc.           ;6175558428                    ;Taylor     ;Leslie    ;09/07/2004;87
+10306;6571;10/14/2004;Shipped   ;AV Stores, Co.                    ;(171) 555-1555                ;Ashworth   ;Victoria  ;03/18/2003;576
+10332;4376;11/17/2004;Shipped   ;AV Stores, Co.                    ;(171) 555-1555                ;Ashworth   ;Victoria  ;10/14/2004;34
+10158;1475;10/10/2003;Shipped   ;Baane Mini Imports                ;07-98 9555                    ;Bergulfsen ;Jonas     ;01/29/2003;254
+10309;4394;10/15/2004;Shipped   ;Baane Mini Imports                ;07-98 9555                    ;Bergulfsen ;Jonas     ;10/10/2003;371
+10300;5522;10/04/2003;Shipped   ;Blauer See Auto, Co.              ;+49 69 66 90 255              ;Keitel     ;Roland    ;01/09/2003;268
+10230;7016;03/15/2004;Shipped   ;Blauer See Auto, Co.              ;+49 69 66 90 255              ;Keitel     ;Roland    ;10/04/2003;163
+10323;3012;11/05/2004;Shipped   ;Blauer See Auto, Co.              ;+49 69 66 90 255              ;Keitel     ;Roland    ;03/15/2004;235
+10376;3987;02/08/2005;Shipped   ;Boards & Toys Co.                 ;3105552373                    ;Young      ;Leslie    ;10/02/2003;495
+10231;8379;03/19/2004;Shipped   ;CAF Imports                       ;+34 913 728 555               ;Fernandez  ;Jesus     ;11/07/2003;133
+10249;5600;05/08/2004;Shipped   ;Cambridge Collectables Co.        ;6175555555                    ;Tseng      ;Kyung     ;03/10/2004;59
+10313;6678;10/22/2004;Shipped   ;Canadian Gift Exchange Network    ;(604) 555-3392                ;Tannamuri  ;Yoshi     ;12/05/2003;322
+10307;2693;10/14/2004;Shipped   ;Classic Gift Ideas, Inc           ;2155554695                    ;Cervantes  ;Francisca ;11/13/2003;336
+10163;4860;10/20/2003;Shipped   ;Classic Legends Inc.              ;2125558493                    ;Hernandez  ;Maria     ;04/04/2003;199
+10337;1201;11/21/2004;Shipped   ;Classic Legends Inc.              ;2125558493                    ;Hernandez  ;Maria     ;10/20/2003;398
+10297;2070;09/16/2004;Shipped   ;Clover Collections, Co.           ;+353 1862 1555                ;Cassidy    ;Dean      ;02/12/2004;217
+10274;6724;07/21/2004;Shipped   ;Collectables For Less Inc.        ;6175558555                    ;Nelson     ;Allen     ;09/05/2003;320
+10369;4515;01/20/2005;Shipped   ;Collectables For Less Inc.        ;6175558555                    ;Nelson     ;Allen     ;07/21/2004;183
+10381;8255;02/17/2005;Shipped   ;Corporate Gift Ideas Co.          ;6505551386                    ;Brown      ;Julie     ;10/18/2003;488
+10214;5967;01/26/2004;Shipped   ;Corrida Auto Replicas, Ltd        ;(91) 555 22 82                ;Sommer     ;Mart¡n    ;05/28/2003;243
+10348;2513;11/01/2004;Shipped   ;Corrida Auto Replicas, Ltd        ;(91) 555 22 82                ;Sommer     ;Mart¡n    ;01/26/2004;280
+10198;7484;11/27/2003;Shipped   ;Cruz & Sons Co.                   ;+63 2 555 3587                ;Cruz       ;Arnold    ;03/03/2003;269
+10330;4405;11/16/2004;Shipped   ;Cruz & Sons Co.                   ;+63 2 555 3587                ;Cruz       ;Arnold    ;11/27/2003;355
+10224;6088;02/21/2004;Shipped   ;Daedalus Designs Imports          ;20.16.1555                    ;Ranc‚      ;Martine   ;11/11/2003;102
+10238;5775;04/09/2004;Shipped   ;Danish Wholesale Imports          ;31 12 3555                    ;Petersen   ;Jytte     ;02/11/2003;423
+10256;3249;06/08/2004;Shipped   ;Danish Wholesale Imports          ;31 12 3555                    ;Petersen   ;Jytte     ;04/09/2004;60
+10281;7021;08/19/2004;Shipped   ;Diecast Classics Inc.             ;2155551555                    ;Yu         ;Kyung     ;07/20/2004;30
+10318;4358;11/02/2004;Shipped   ;Diecast Classics Inc.             ;2155551555                    ;Yu         ;Kyung     ;08/19/2004;75
+10243;6154;04/26/2004;Shipped   ;Diecast Collectables              ;6175552555                    ;Franco     ;Valarie   ;12/09/2003;139
+10213;3602;01/22/2004;Shipped   ;Double Decker Gift Stores, Ltd    ;(171) 555-7555                ;Hardy      ;Thomas    ;11/14/2003;69
+10150;10994;09/19/2003;Shipped   ;Dragon Souveniers, Ltd.           ;+65 221 7555                  ;Natividad  ;Eric      ;04/16/2003;156
+10165;8594;10/22/2003;Shipped   ;Dragon Souveniers, Ltd.           ;+65 221 7555                  ;Natividad  ;Eric      ;09/19/2003;33
+10277;3128;08/04/2004;Shipped   ;Dragon Souveniers, Ltd.           ;+65 221 7555                  ;Natividad  ;Eric      ;10/22/2003;287
+10387;4176;03/02/2005;Shipped   ;Dragon Souveniers, Ltd.           ;+65 221 7555                  ;Natividad  ;Eric      ;08/04/2004;210
+10197;5324;11/26/2003;Shipped   ;Enaco Distributors                ;(93) 203 4555                 ;Saavedra   ;Eduardo   ;04/21/2003;219
+10340;4399;11/24/2004;Shipped   ;Enaco Distributors                ;(93) 203 4555                 ;Saavedra   ;Eduardo   ;11/26/2003;364
+10128;5544;06/06/2003;Shipped   ;Euro+ Shopping Channel            ;(91) 555 94 44                ;Freyre     ;Diego     ;01/31/2003;126
+10153;4904;09/28/2003;Shipped   ;Euro+ Shopping Channel            ;(91) 555 94 44                ;Freyre     ;Diego     ;06/27/2003;93
+10190;3200;11/19/2003;Shipped   ;Euro+ Shopping Channel            ;(91) 555 94 44                ;Freyre     ;Diego     ;10/08/2003;42
+10212;4947;01/16/2004;Shipped   ;Euro+ Shopping Channel            ;(91) 555 94 44                ;Freyre     ;Diego     ;12/03/2003;44
+10244;4685;04/29/2004;Shipped   ;Euro+ Shopping Channel            ;(91) 555 94 44                ;Freyre     ;Diego     ;01/16/2004;104
+10279;1575;08/09/2004;Shipped   ;Euro+ Shopping Channel            ;(91) 555 94 44                ;Freyre     ;Diego     ;05/05/2004;96
+10311;2923;10/16/2004;Shipped   ;Euro+ Shopping Channel            ;(91) 555 94 44                ;Freyre     ;Diego     ;08/09/2004;68
+10350;1962;12/02/2004;Shipped   ;Euro+ Shopping Channel            ;(91) 555 94 44                ;Freyre     ;Diego     ;10/16/2004;47
+10378;1450;02/10/2005;Shipped   ;Euro+ Shopping Channel            ;(91) 555 94 44                ;Freyre     ;Diego     ;12/10/2004;62
+10412;5951;05/03/2005;Shipped   ;Euro+ Shopping Channel            ;(91) 555 94 44                ;Freyre     ;Diego     ;03/15/2005;49
+10321;2985;11/04/2004;Shipped   ;FunGiftIdeas.com                  ;5085552555                    ;Benitez    ;Violeta   ;10/21/2003;380
+10388;3207;03/03/2005;Shipped   ;FunGiftIdeas.com                  ;5085552555                    ;Benitez    ;Violeta   ;11/04/2004;119
+10263;3677;06/28/2004;Shipped   ;Gift Depot Inc.                   ;2035552570                    ;King       ;Julie     ;11/05/2003;236
+10413;8678;05/05/2005;Shipped   ;Gift Depot Inc.                   ;2035552570                    ;King       ;Julie     ;06/28/2004;311
+10146;3156;09/03/2003;Shipped   ;Gift Ideas Corp.                  ;2035554407                    ;Lewis      ;Dan       ;06/16/2003;79
+10353;3516;12/04/2004;Shipped   ;Gift Ideas Corp.                  ;2035554407                    ;Lewis      ;Dan       ;09/03/2003;458
+10295;3427;09/10/2004;Shipped   ;Gifts4AllAges.com                 ;6175559555                    ;Yoshido    ;Juri      ;06/30/2004;72
+10316;4129;11/01/2004;Shipped   ;giftsbymail.co.uk                 ;(198) 555-8888                ;Bennett    ;Helen     ;03/20/2004;226
+10259;4033;06/15/2004;Shipped   ;Handji Gifts& Co                  ;+65 224 1555                  ;Victorino  ;Wendy     ;02/04/2004;132
+10288;2937;09/01/2004;Shipped   ;Handji Gifts& Co                  ;+65 224 1555                  ;Victorino  ;Wendy     ;06/15/2004;78
+10409;786;04/23/2005;Shipped   ;Handji Gifts& Co                  ;+65 224 1555                  ;Victorino  ;Wendy     ;09/01/2004;234
+10314;7975;10/22/2004;Shipped   ;Heintze Collectables              ;86 21 3555                    ;Ibsen      ;Palle     ;10/17/2003;371
+10289;4568;09/03/2004;Shipped   ;Herkku Gifts                      ;+47 2267 3215                 ;Oeztan     ;Veysel    ;11/18/2003;290
+10303;2256;10/06/2004;Shipped   ;Iberia Gift Imports, Corp.        ;(95) 555 82 82                ;Roel       ;Jos‚ Pedr ;11/14/2003;327
+10266;9160;07/06/2004;Shipped   ;L'ordine Souveniers               ;0522-556555                   ;Moroni     ;Maurizio  ;11/06/2003;243
+10416;4352;05/10/2005;Shipped   ;L'ordine Souveniers               ;0522-556555                   ;Moroni     ;Maurizio  ;07/06/2004;308
+10286;2174;08/28/2004;Shipped   ;La Corne D'abondance, Co.         ;(1) 42.34.2555                ;Bertrand   ;Marie     ;04/01/2003;515
+10336;1888;11/20/2004;Shipped   ;La Corne D'abondance, Co.         ;(1) 42.34.2555                ;Bertrand   ;Marie     ;08/28/2004;84
+10315;3602;10/29/2004;Shipped   ;La Rochelle Gifts                 ;40.67.8555                    ;Labrune    ;Janine    ;07/23/2004;98
+10375;733;02/03/2005;Shipped   ;La Rochelle Gifts                 ;40.67.8555                    ;Labrune    ;Janine    ;10/29/2004;97
+10292;2215;09/08/2004;Shipped   ;Land of Toys Inc.                 ;2125557818                    ;Yu         ;Kwai      ;02/24/2003;562
+10329;4396;11/15/2004;Shipped   ;Land of Toys Inc.                 ;2125557818                    ;Yu         ;Kwai      ;09/08/2004;68
+10356;4197;12/09/2004;Shipped   ;Lyon Souveniers                   ;+33 1 46 62 7555              ;Da Cunha   ;Daniel    ;07/01/2003;527
+10395;3371;03/17/2005;Shipped   ;Lyon Souveniers                   ;+33 1 46 62 7555              ;Da Cunha   ;Daniel    ;12/09/2004;98
+10344;7650;11/25/2004;Shipped   ;Marseille Mini Autos              ;91.24.4555                    ;Lebihan    ;Laurence  ;05/08/2003;567
+10364;2317;01/06/2005;Shipped   ;Marseille Mini Autos              ;91.24.4555                    ;Lebihan    ;Laurence  ;11/25/2004;42
+10305;6681;10/13/2004;Shipped   ;Marta's Replicas Co.              ;6175558555                    ;Hernandez  ;Marta     ;08/27/2004;47
+10209;5198;01/09/2004;Shipped   ;Men 'R' US Retailers, Ltd.        ;2155554369                    ;Chandler   ;Michael   ;10/11/2003;90
+10319;4112;11/03/2004;Shipped   ;Microscale Inc.                   ;2125551957                    ;Kuo        ;Kee       ;04/20/2004;197
+10392;2218;03/10/2005;Shipped   ;Mini Auto Werke                   ;7675-3555                     ;Mendel     ;Roland    ;11/04/2003;492
+10255;3726;06/04/2004;Shipped   ;Mini Caravy                       ;88.60.1555                    ;Citeaux    ;Fr‚d‚riqu ;04/13/2004;52
+10405;9048;04/14/2005;Shipped   ;Mini Caravy                       ;88.60.1555                    ;Citeaux    ;Fr‚d‚riqu ;06/04/2004;314
+10308;4044;10/15/2004;Shipped   ;Mini Classics                     ;9145554562                    ;Frick      ;Steve     ;11/25/2003;325
+10185;3884;11/14/2003;Shipped   ;Mini Creations Ltd.               ;5085559555                    ;Tam        ;Wing C    ;08/10/2003;96
+10365;2612;01/07/2005;Shipped   ;Mini Creations Ltd.               ;5085559555                    ;Tam        ;Wing C    ;11/14/2003;420
+10135;8009;07/02/2003;Shipped   ;Mini Gifts Distributors Ltd.      ;4155551450                    ;Nelson     ;Valarie   ;03/26/2003;98
+10142;8023;08/08/2003;Shipped   ;Mini Gifts Distributors Ltd.      ;4155551450                    ;Nelson     ;Valarie   ;07/02/2003;37
+10182;2183;11/12/2003;Shipped   ;Mini Gifts Distributors Ltd.      ;4155551450                    ;Nelson     ;Valarie   ;08/08/2003;96
+10229;6426;03/11/2004;Shipped   ;Mini Gifts Distributors Ltd.      ;4155551450                    ;Nelson     ;Valarie   ;11/12/2003;120
+10271;3012;07/20/2004;Shipped   ;Mini Gifts Distributors Ltd.      ;4155551450                    ;Nelson     ;Valarie   ;03/11/2004;131
+10282;7071;08/20/2004;Shipped   ;Mini Gifts Distributors Ltd.      ;4155551450                    ;Nelson     ;Valarie   ;07/20/2004;31
+10312;11624;10/21/2004;Shipped   ;Mini Gifts Distributors Ltd.      ;4155551450                    ;Nelson     ;Valarie   ;08/20/2004;62
+10368;4107;01/19/2005;Shipped   ;Mini Gifts Distributors Ltd.      ;4155551450                    ;Nelson     ;Valarie   ;12/10/2004;40
+10201;2168;12/01/2003;Shipped   ;Mini Wheels Co.                   ;6505555787                    ;Murphy     ;Julie     ;03/25/2003;251
+10333;3003;11/18/2004;Shipped   ;Mini Wheels Co.                   ;6505555787                    ;Murphy     ;Julie     ;12/01/2003;353
+10236;2852;04/03/2004;Shipped   ;Motor Mint Distributors Inc.      ;2155559857                    ;Hernandez  ;Rosa      ;03/10/2003;390
+10331;6434;11/17/2004;Shipped   ;Motor Mint Distributors Inc.      ;2155559857                    ;Hernandez  ;Rosa      ;04/03/2004;228
+10204;6182;12/02/2003;Shipped   ;Muscle Machine Inc                ;2125557413                    ;Young      ;Jeff      ;06/03/2003;182
+10267;2720;07/07/2004;Shipped   ;Muscle Machine Inc                ;2125557413                    ;Young      ;Jeff      ;12/02/2003;218
+10349;4409;12/01/2004;Shipped   ;Muscle Machine Inc                ;2125557413                    ;Young      ;Jeff      ;07/07/2004;147
+10284;5748;08/21/2004;Shipped   ;Norway Gifts By Mail, Co.         ;+47 2212 1555                 ;Klaeboe    ;Jan       ;10/05/2003;321
+10192;3545;11/20/2003;Shipped   ;Online Diecast Creations Co.      ;6035558647                    ;Young      ;Valarie   ;01/06/2003;318
+10322;6000;11/04/2004;Shipped   ;Online Diecast Creations Co.      ;6035558647                    ;Young      ;Valarie   ;11/20/2003;350
+10294;4693;09/10/2004;Shipped   ;Online Mini Collectables          ;6175557555                    ;Barajas    ;Miguel    ;08/02/2004;39
+10240;5629;04/13/2004;Shipped   ;Osaka Souveniers Co.              ;+81 06 6342 5555              ;Kentary    ;Mory      ;01/12/2004;92
+10239;1959;04/12/2004;Shipped   ;Oulu Toy Supplies, Inc.           ;981-443655                    ;Koskitalo  ;Pirkko    ;09/21/2003;204
+10373;4046;01/31/2005;Shipped   ;Oulu Toy Supplies, Inc.           ;981-443655                    ;Koskitalo  ;Pirkko    ;04/12/2004;294
+10273;3509;07/21/2004;Shipped   ;Petit Auto                        ;(02) 5554 67                  ;Dewey      ;Catherine ;02/18/2004;154
+10261;3378;06/17/2004;Shipped   ;Qu‚bec Home Shopping Network      ;(514) 555-8054                ;FresniŠre  ;Jean      ;11/05/2003;225
+10411;4140;05/01/2005;Shipped   ;Qu‚bec Home Shopping Network      ;(514) 555-8054                ;FresniŠre  ;Jean      ;06/17/2004;318
+10137;4380;07/10/2003;Shipped   ;Reims Collectables                ;26.47.1555                    ;Henriot    ;Paul      ;05/07/2003;64
+10343;5849;11/24/2004;Shipped   ;Reims Collectables                ;26.47.1555                    ;Henriot    ;Paul      ;07/10/2003;503
+10398;4215;03/30/2005;Shipped   ;Reims Collectables                ;26.47.1555                    ;Henriot    ;Paul      ;12/15/2004;105
+10173;5036;11/05/2003;Shipped   ;Rovelli Gifts                     ;035-640555                    ;Rovelli    ;Giovanni  ;02/17/2003;261
+10328;3816;11/12/2004;Shipped   ;Rovelli Gifts                     ;035-640555                    ;Rovelli    ;Giovanni  ;11/05/2003;373
+10283;2992;08/20/2004;Shipped   ;Royal Canadian Collectables, L    ;(604) 555-4555                ;Lincoln    ;Elizabeth ;04/02/2004;140
+10144;1637;08/13/2003;Shipped   ;Royale Belge                      ;(071) 23 67 2555              ;Cartrain   ;Pascale   ;04/11/2003;124
+10338;5625;11/22/2004;Shipped   ;Royale Belge                      ;(071) 23 67 2555              ;Cartrain   ;Pascale   ;08/13/2003;467
+10366;4208;01/10/2005;Shipped   ;Royale Belge                      ;(071) 23 67 2555              ;Cartrain   ;Pascale   ;11/22/2004;49
+10269;2019;07/16/2004;Shipped   ;Salzburg Collectables             ;6562-9555                     ;Pipps      ;Georg     ;04/28/2003;445
+10341;7738;11/24/2004;Shipped   ;Salzburg Collectables             ;6562-9555                     ;Pipps      ;Georg     ;07/16/2004;131
+10419;1961;05/17/2005;Shipped   ;Salzburg Collectables             ;6562-9555                     ;Pipps      ;Georg     ;11/24/2004;174
+10208;8603;01/02/2004;Shipped   ;Saveley & Henriot, Co.            ;78.32.5555                    ;Saveley    ;Mary      ;11/25/2003;38
+10227;2954;03/02/2004;Shipped   ;Saveley & Henriot, Co.            ;78.32.5555                    ;Saveley    ;Mary      ;01/02/2004;60
+10389;2575;03/03/2005;Shipped   ;Scandinavian Gift Ideas           ;0695-34 6555                  ;Larsson    ;Maria     ;09/08/2004;176
+10219;4892;02/10/2004;Shipped   ;Signal Collectibles Ltd.          ;4155554312                    ;Taylor     ;Sue       ;09/12/2003;151
+10278;4668;08/06/2004;Shipped   ;Signal Gift Stores                ;7025551838                    ;King       ;Sue       ;05/21/2003;443
+10346;1517;11/29/2004;Shipped   ;Signal Gift Stores                ;7025551838                    ;King       ;Sue       ;08/06/2004;115
+10270;4905;07/19/2004;Shipped   ;Souveniers And Things Co.         ;+61 2 9495 8555               ;Huxley     ;Adrian    ;07/16/2003;369
+10361;1451;12/17/2004;Shipped   ;Souveniers And Things Co.         ;+61 2 9495 8555               ;Huxley     ;Adrian    ;07/19/2004;151
+10175;5363;11/06/2003;Shipped   ;Stylish Desk Decors, Co.          ;(171) 555-0297                ;Brown      ;Ann       ;06/12/2003;147
+10351;3881;12/03/2004;Shipped   ;Stylish Desk Decors, Co.          ;(171) 555-0297                ;Brown      ;Ann       ;11/06/2003;393
+10247;10606;05/05/2004;Shipped   ;Suominen Souveniers               ;+358 9 8045 555               ;Suominen   ;Kalle     ;08/01/2003;278
+10363;2818;01/06/2005;Shipped   ;Suominen Souveniers               ;+358 9 8045 555               ;Suominen   ;Kalle     ;05/05/2004;246
+10245;6120;05/04/2004;Shipped   ;Super Scale Inc.                  ;2035559545                    ;Murphy     ;Leslie    ;11/26/2003;160
+10168;3480;10/28/2003;Shipped   ;Technics Stores Inc.              ;6505556809                    ;Hirano     ;Juri      ;07/24/2003;96
+10317;2916;11/02/2004;Shipped   ;Technics Stores Inc.              ;6505556809                    ;Hirano     ;Juri      ;10/28/2003;371
+10362;3664;01/05/2005;Shipped   ;Technics Stores Inc.              ;6505556809                    ;Hirano     ;Juri      ;11/02/2004;64
+10251;3189;05/18/2004;Shipped   ;Tekni Collectables Inc.           ;2015559350                    ;Brown      ;William   ;03/29/2004;50
+10257;4407;06/14/2004;Shipped   ;The Sharp Gifts Warehouse         ;4085553659                    ;Frick      ;Sue       ;05/11/2004;34
+10400;9661;04/01/2005;Shipped   ;The Sharp Gifts Warehouse         ;4085553659                    ;Frick      ;Sue       ;06/14/2004;291
+10339;2757;11/23/2004;Shipped   ;Tokyo Collectables, Ltd           ;+81 3 3584 0555               ;Shimamura  ;Akiko     ;06/15/2004;161
+10372;5862;01/26/2005;Shipped   ;Tokyo Collectables, Ltd           ;+81 3 3584 0555               ;Shimamura  ;Akiko     ;11/23/2004;64
+10408;554;04/22/2005;Shipped   ;Tokyo Collectables, Ltd           ;+81 3 3584 0555               ;Shimamura  ;Akiko     ;01/26/2005;86
+10310;6935;10/16/2004;Shipped   ;Toms Spezialit„ten, Ltd           ;0221-5554327                  ;Pfalzheim  ;Henriette ;11/20/2003;331
+10299;2597;09/30/2004;Shipped   ;Toys of Finland, Co.              ;90-224 8555                   ;Karttunen  ;Matti     ;10/06/2003;360
+10377;1628;02/09/2005;Shipped   ;Toys of Finland, Co.              ;90-224 8555                   ;Karttunen  ;Matti     ;09/30/2004;132
+10189;4512;11/18/2003;Shipped   ;Toys4GrownUps.com                 ;6265557265                    ;Young      ;Julie     ;08/25/2003;85
+10403;2435;04/08/2005;Shipped   ;UK Collectables, Ltd.             ;(171) 555-2282                ;Devon      ;Elizabeth ;10/06/2003;550
+10287;3432;08/30/2004;Shipped   ;Vida Sport, Ltd                   ;0897-034555                   ;Holz       ;Michael   ;02/22/2004;190
+10237;2333;04/05/2004;Shipped   ;Vitachrome Inc.                   ;2125551500                    ;Frick      ;Michael   ;01/10/2003;451
+10324;1467;11/05/2004;Shipped   ;Vitachrome Inc.                   ;2125551500                    ;Frick      ;Michael   ;04/05/2004;214
+10320;6876;11/03/2004;Shipped   ;Volvo Model Replicas, Co          ;0921-12 3555                  ;Berglund   ;Christina ;03/24/2003;590
+10215;6075;01/29/2004;Shipped   ;West Coast Collectables Co.       ;3105553722                    ;Thompson   ;Steve     ;12/01/2003;59
