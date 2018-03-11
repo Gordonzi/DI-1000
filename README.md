@@ -73,7 +73,5 @@ On completing this course, you will be able to:
 
 ## Acknowledgments
 ```
-Beppe Raymaekers
-Morgan Senechal
-Caio Moreno de Souza
+
 ```
