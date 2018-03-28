@@ -1,65 +1,75 @@
 # Pentaho Data Integration Foundation - DI 1000
-This course is aimed at introducing the Pentaho ETL tool to folks who are involved in a Pentaho implementation. Data Analysts, Project Managers, Professional Services consultants, Data Architects, Report Designers will gain a solid understanding of the key ETL concepts and workflows.
-
-## Getting Started
-These instructions will get you up and running on your local machine for development and testing purposes.
-
-
-### Installing
-A step by step series of guides can be found at:
-
-[Artefacts for DI 5000](https://www.dropbox.com/sh/6nl31ts10sjimnr/AADFXjTek4f9ANyBivVVAhqFa?dl=0) - Shared File on DropBox
-
-
+  This course is aimed at introducing the Pentaho ETL tool to folks who are involved in a Pentaho implementation. Data Analysts, Project Managers, Professional Services consultants, Data Architects, Report Designers will gain a solid understanding of the key ETL concepts and workflows.
 
 ## Course Overview
 On completing this course, you will be able to:
 
-### Module 1 - Project / Lifecycle Management
+
+#### Module 1 - Overview of PDI
 ```
- Deploy PDI projects for:
-  * Local - local file repository (with EE option)
-  * Development - EE Repository
-  * UAT - EE repository
-  * Production - EE repository
+  Introduction
+  Components
+  Navigationg Spoon Interface
+  Configuring Spoon
+  Key Configuration Files
+  Repository
+  
 ```
 
-### Module 2 - PDI as a Data Source
+#### Module 2 - Concepts & Terminology
 ```
-  Configure PDI as a datasource for various scenarios:
-  * Pentaho Reports step
-  * CDA
-  * Machine Learning
-  * Data Services
+  Transformation, Steps & Hops
+  Paralellism
+  Metadata
+  Data Explorer
 ```  
 
-### Module 3 - Streaming Data
+#### Module 3 - Datasources
 ```
-  Implement a MQTT Broker
-  * Stream GPS co-ordinates to PDI to demonstrate IoT
-  Implement Kafka
-  * Twitter Stream - you will need a twitter account
+  Reading & Writing Files
+  * CSV, Text
+  * Microsoft Excel
+  * XML
+  * Json
+  * RSS Feed
+
+  Databases
+  * Connecting to JDBC datasource
+  * Writing to a table
+  * Reading from a table
+  * Update 
+  * Insert / Update
+  * Dimension Update / Lookup
+  * Delete
+
+  Parameters
 ```
 
-### Module 4 - Metadata Injection
+#### Module 4 - Enrichment
 ```
-  Overview of Metadata Injection
-  * Metadata Injection Workflows
-  * Metadata Injection Scenarios
-```
-
-### Module 5 - Scalability
-```
-  Master & Slave nodes
-  Clustering
-  Worker Nodes * this is currently under development
-  Partitioning
-  Scheduling
-  Checkpoints
-
+  Stream operations that enrich the dataset
+  Merge Streams
+  Joins
+  * Cross
+  * Merge
+  * Database
+  Lookups
+  Scripting
 ```
 
-## Acknowledgments
+#### Module 5 - Enterprise Solution
+```
+  Scaling out Solution
+  Jobs
+  Configure Master / Slave nodes
+  * Clustering
+  
 ```
 
-```
+#### Getting Started
+
+[Course Materials](/scripts/course_materials.cmd) - Batch script for GitHub repositories *Requires Git to be installed.
+
+[Software](https://www.dropbox.com/sh/6nl31ts10sjimnr/AADFXjTek4f9ANyBivVVAhqFa?dl=0) - Shared File on DropBox
+
+
