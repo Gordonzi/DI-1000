@@ -4,18 +4,6 @@ This course is aimed at introducing the Pentaho ETL tool to folks who are involv
 ## Getting Started
 These instructions will get you up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-The following software need to be installed and configured:
-```
-Pentaho Business Analytics 8.x
-Java JDK 9.0.x
-Docker for Windows
-Git
-Visual Code Source
-R
-RStudio
-Jenkins
-```
 
 ### Installing
 A step by step series of guides can be found at:
